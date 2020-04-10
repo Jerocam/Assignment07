@@ -1,6 +1,8 @@
 /*eslint-env browser*/
+"use strict";
 
 //STEP 1
+
 
 //STEP 2
 

@@ -1,10 +1,12 @@
 /*eslint-env browser*/
 
-"use strict";
+
 let $ = (function(id){
+    "use strict";
     return document.getElementById(id);
 });
 
+"use strict";
 //STEP 1
 // let name = prompt("What is your name?");
 // let x = name.length;
